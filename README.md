@@ -9,7 +9,7 @@ INTEP Roldanillo Valle | Postgrado Especialización en Big Data y Analítica de 
 3. José Eduardo Borja
 4. Lina Marcela Zambrano Ramírez
 
-*Problema del negocio:** Una tienda de venta de Ropa deportiva llamada Eleven Pro necesita anticipar cuánto venderá en las próximas semanas para gestionar inventario, personal y presupuesto. Actualmente las decisiones se toman por intuición o con promedios simples, lo que genera sobrestock o desabastecimiento e impide cumplir adecuadamente con las entregas.
+**Problema del negocio:** Una tienda de venta de Ropa deportiva llamada Eleven Pro necesita anticipar cuánto venderá en las próximas semanas para gestionar inventario, personal y presupuesto. Actualmente las decisiones se toman por intuición o con promedios simples, lo que genera sobrestock o desabastecimiento e impide cumplir adecuadamente con las entregas.
 
 **Objetivo del proyecto:**
 Construir un modelo predictivo que estime las ventas futuras de la tienda (global o por categoría de
