@@ -4,12 +4,16 @@ Proyecto de Analítica Predictiva Aplicada a los Negocios
 INTEP Roldanillo Valle | Postgrado Especialización en Big Data y Analítica de Datos | 2026
 
 ## Equipo
-- [Nombre del integrante 1]
-- [Nombre del integrante 2]
-- [Nombre del integrante 3]
+1. Eduardo José Padilla Jaramillo
+2. Gustavo Adolfo Gordillo Millán
+3. José Eduardo Borja
+4. Lina Marcela Zambrano Ramírez
 
-## Descripción
-[Breve descripción del problema de negocio]
+*Problema del negocio:** Una tienda de venta de Ropa deportiva llamada Eleven Pro necesita anticipar cuánto venderá en las próximas semanas para gestionar inventario, personal y presupuesto. Actualmente las decisiones se toman por intuición o con promedios simples, lo que genera sobrestock o desabastecimiento e impide cumplir adecuadamente con las entregas.
+
+**Objetivo del proyecto:**
+Construir un modelo predictivo que estime las ventas futuras de la tienda (global o por categoría de
+producto) y generar recomendaciones para la gestión de inventario.
 
 ## Archivos
 - `Notebook.ipynb` — Código Python completo
