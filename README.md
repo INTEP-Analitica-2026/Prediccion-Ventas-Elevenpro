@@ -15,6 +15,14 @@ INTEP Roldanillo Valle | Postgrado Especialización en Big Data y Analítica de 
 Construir un modelo predictivo que estime las ventas futuras de la tienda (global o por categoría de
 producto) y generar recomendaciones para la gestión de inventario.
 
+**Modelo de Machine Learning usado:**
+Gradient Boosting
+
+**Resultados principales:**
+1. Las ventas son altamente `estacionales y predecibles`
+2. `Gradient` Boosting supera a todos los demás modelos
+3. El número de pedidos es el único factor que realmente importa
+
 ## Archivos
 - `Notebook.ipynb` — Código Python completo
 - `Presentacion.pptx` — Diapositivas de la exposición
