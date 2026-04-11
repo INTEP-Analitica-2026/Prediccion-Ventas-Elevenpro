@@ -23,7 +23,7 @@ Gradient Boosting
 2. `Gradient` Boosting supera a todos los demás modelos
 3. El número de pedidos es el único factor que realmente importa
 
-**Resultados principales:**
+**Tecnologías:**
 Python, pandas, scikit-learn, matplotlib
 
 
